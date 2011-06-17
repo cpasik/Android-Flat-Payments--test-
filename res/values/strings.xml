@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Flat Payments</string>
+    <string name="welcome">Flat Payments</string>
+    <string name="btnTariffs">View Tariffs</string>
+    <string name="btnTariffsAdd">Add new tariff</string>
+    <string name="tariffsWelcome">Tariffs view</string>
+    <string name="newTariffWelcome">Adding new tariff</string>
+</resources>
