@@ -7,4 +7,6 @@
     <string name="btnTariffsAdd">Add new tariff</string>
     <string name="tariffsWelcome">Tariffs view</string>
     <string name="newTariffWelcome">Adding new tariff</string>
+    <string name="btnOK">OK</string>
+    <string name="btnCancel">Cancel</string>
 </resources>
