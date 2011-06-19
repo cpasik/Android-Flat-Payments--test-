@@ -14,10 +14,24 @@
     />
     
  <Button
+ 	android:text="@string/btnAddCounter"
+ 	android:id="@+id/btnAddCounter"
+ 	android:layout_width="fill_parent"
+ 	android:layout_height="wrap_content"
+ 	/>   
+    
+ <Button
  	android:text="@string/btnTariffs"
  	android:id="@+id/btnTariffs"
  	android:layout_width="fill_parent"
  	android:layout_height="wrap_content"
- 	/>   
+ 	/>
+ 	   
+ <Button
+ 	android:text="@string/about"
+ 	android:id="@+id/btnAbout"
+ 	android:layout_width="fill_parent"
+ 	android:layout_height="wrap_content"
+ 	/>
     
 </LinearLayout>

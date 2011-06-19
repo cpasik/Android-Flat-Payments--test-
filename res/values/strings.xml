@@ -3,10 +3,21 @@
     <string name="hello">Hello World, Main!</string>
     <string name="app_name">Flat Payments</string>
     <string name="welcome">Flat Payments</string>
+    <string name="about">About this app</string>
+    <string name="aboutText">Some text about this app :)</string>
     <string name="btnTariffs">View Tariffs</string>
     <string name="btnTariffsAdd">Add new tariff</string>
     <string name="tariffsWelcome">Tariffs view</string>
     <string name="newTariffWelcome">Adding new tariff</string>
     <string name="btnOK">OK</string>
     <string name="btnCancel">Cancel</string>
+    <string name="btnAddCounter">Add counter value</string>
+    <string name="newCounter">New counter value</string>
+    <string name="counterType">Select counter type</string>
+    <string name="counter_type_prompt">Select type</string>
+    <string-array name="counter_array">
+    	<item>hot water</item>
+    	<item>cold water</item>
+    	<item>energy</item>
+    </string-array>
 </resources>
