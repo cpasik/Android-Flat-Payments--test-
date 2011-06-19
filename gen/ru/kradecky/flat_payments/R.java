@@ -21,17 +21,20 @@ public final class R {
         public static final int btnAddCounter=0x7f060001;
         public static final int btnOK=0x7f060000;
         public static final int btnTariffs=0x7f060002;
-        public static final int btnTariffsAdd=0x7f060006;
+        public static final int btnTariffsAdd=0x7f060008;
         public static final int counter_type=0x7f060004;
-        public static final int tariffWelcome=0x7f060005;
-        public static final int text=0x7f060007;
+        public static final int counter_value=0x7f060005;
+        public static final int spinnerTarget=0x7f060006;
+        public static final int tariffWelcome=0x7f060007;
+        public static final int text=0x7f060009;
     }
     public static final class layout {
         public static final int about=0x7f030000;
         public static final int main=0x7f030001;
         public static final int new_counter=0x7f030002;
         public static final int new_tariff=0x7f030003;
-        public static final int tariffs=0x7f030004;
+        public static final int spinner_item=0x7f030004;
+        public static final int tariffs=0x7f030005;
     }
     public static final class string {
         public static final int about=0x7f040003;
@@ -44,6 +47,7 @@ public final class R {
         public static final int btnTariffsAdd=0x7f040006;
         public static final int counterType=0x7f04000d;
         public static final int counter_type_prompt=0x7f04000e;
+        public static final int counter_value_prompt=0x7f04000f;
         public static final int hello=0x7f040000;
         public static final int newCounter=0x7f04000c;
         public static final int newTariffWelcome=0x7f040008;

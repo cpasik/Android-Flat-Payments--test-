@@ -20,4 +20,5 @@
     	<item>cold water</item>
     	<item>energy</item>
     </string-array>
+    <string name="counter_value_prompt">Enter counter value</string>
 </resources>

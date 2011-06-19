@@ -27,7 +27,7 @@ public class NewCounter extends Activity implements OnItemSelectedListener
 
 	public void onItemSelected(AdapterView<?> parent, View view, int pos, long id) 
 	{
-		Toast.makeText(parent.getContext(), "The counter type is " + parent.getItemAtPosition(pos).toString(), Toast.LENGTH_LONG).show();		
+		//Toast.makeText(parent.getContext(), "The counter type is " + parent.getItemAtPosition(pos).toString(), Toast.LENGTH_LONG).show();		
 	}
 
 	public void onNothingSelected(AdapterView parent) 
